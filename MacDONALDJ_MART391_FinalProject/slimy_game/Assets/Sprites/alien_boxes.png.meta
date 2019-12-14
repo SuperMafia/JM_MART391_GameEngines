@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 8e62302f1dff8ad4a98c8aa72ab89067
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alien_box_intact
+    21300002: alien_boxes_0
+    21300004: alien_box_gib2
+    21300006: alien_box_gib3
+    21300008: alien_box_gib1
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 2, y: 190, z: 190, w: 2}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alien_boxes_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 190
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c468e6be76a01a144a3f0ef131d0c5d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_box_gib2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 109
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -32}
+        - {x: -14.5, y: 32}
+        - {x: 14.5, y: 32}
+        - {x: 14.5, y: 5}
+        - {x: 13.5, y: 5}
+        - {x: 13.5, y: 3}
+        - {x: 12.5, y: 3}
+        - {x: 12.5, y: -1}
+        - {x: 13.585541, y: -0.9206848}
+        - {x: 13.5, y: -4}
+        - {x: 3.5, y: -32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9bf805bf0799648bdb3afc6160696d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_box_gib3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 108
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -19.5}
+        - {x: -23.5, y: -17.5}
+        - {x: -13.5, y: 9.5}
+        - {x: -13.5, y: 15.5}
+        - {x: -12.5, y: 15.5}
+        - {x: -12.5, y: 17.5}
+        - {x: -11.5, y: 17.5}
+        - {x: -11.5, y: 18.5}
+        - {x: -6.5, y: 18.5}
+        - {x: -6.5, y: 17.5}
+        - {x: -5.5, y: 17.5}
+        - {x: -5.5, y: 15.5}
+        - {x: -4.5, y: 15.5}
+        - {x: -4.5, y: 11.5}
+        - {x: 23.5, y: -2.5}
+        - {x: 23.5, y: -19.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75712861d36fc44f9c56068e5bb27f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_box_gib1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 136
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -24}
+        - {x: -10, y: -11}
+        - {x: -10, y: -5}
+        - {x: -11, y: -5}
+        - {x: -11, y: -3}
+        - {x: -12, y: -3}
+        - {x: -12, y: -2}
+        - {x: -18, y: -2}
+        - {x: -18, y: 24}
+        - {x: 18, y: 24}
+        - {x: 18, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd56a06de9923d4ca41702bc2adab2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 96ca22422fabf8d43b2a43f563dc0a7c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
